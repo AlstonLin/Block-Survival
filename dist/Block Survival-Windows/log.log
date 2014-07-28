@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-05-04T20:23:30</date>
+  <millis>1399249410577</millis>
+  <sequence>0</sequence>
+  <logger>alston.minecraft.Light</logger>
+  <level>SEVERE</level>
+  <class>alston.minecraft.Light$1</class>
+  <method>run</method>
+  <thread>16</thread>
+</record>
+</log>
